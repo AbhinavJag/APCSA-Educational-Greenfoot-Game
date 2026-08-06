@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WrongAnswerPlatform
+comment0.text=\r\n\ WrongAnswerPlatform\ -\ landing\ on\ this\ costs\ a\ life.\ The\ platform\r\n\ gets\ cleared\ away\ as\ part\ of\ the\ round\ reset,\ so\ it\ plays\ like\ a\r\n\ crumbling\ platform\:\ the\ player\ lands,\ then\ the\ floor\ is\ gone\ on\r\n\ the\ very\ next\ frame's\ re-layout.\r\n
+comment1.params=answerText
+comment1.target=WrongAnswerPlatform(java.lang.String)
+comment2.params=
+comment2.target=void\ onLanded()
+numComments=3

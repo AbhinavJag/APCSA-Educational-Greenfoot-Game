@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Platform
+comment0.text=\r\n\ Platform\ -\ a\ plain\ solid\ surface\ the\ player\ can\ stand\ on,\ built\r\n\ by\ tiling\ the\ retro\ block\ sprite.\ Used\ for\ the\ ground;\r\n\ AnswerPlatform\ (a\ separate\ class)\ handles\ the\ answer-labeled\r\n\ platforms\ that\ gate\ progress.\r\n
+comment1.params=width\ height
+comment1.target=Platform(int,\ int)
+numComments=2
