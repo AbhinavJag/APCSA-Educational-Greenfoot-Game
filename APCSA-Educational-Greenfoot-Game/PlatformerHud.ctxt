@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PlatformerHud
+comment0.text=\r\n\ PlatformerHud\ -\ a\ slim\ status\ bar\ pinned\ to\ the\ top\ of\ the\r\n\ screen,\ sized\ to\ exactly\ match\ the\ world\ width.\ Shows\ score,\r\n\ level,\ streak,\ high\ score,\ the\ current\ question,\ a\ shrinking\r\n\ timer\ bar,\ and\ lives\ drawn\ as\ small\ icons.\r\n
+comment1.params=
+comment1.target=PlatformerHud()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=img\ lives\ worldWidth
+comment3.target=void\ drawLivesIcons(greenfoot.GreenfootImage,\ int,\ int)
+comment4.params=img\ fraction
+comment4.target=void\ drawTimerBar(greenfoot.GreenfootImage,\ double)
+numComments=5
