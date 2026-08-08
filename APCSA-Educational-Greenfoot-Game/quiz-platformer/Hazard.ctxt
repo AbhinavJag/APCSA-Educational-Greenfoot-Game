@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Hazard
-comment0.text=\r\n\ Hazard\ -\ a\ simple\ enemy\ that\ patrols\ back\ and\ forth\ between\ two\r\n\ x-coordinates.\ Touching\ it\ costs\ the\ player\ a\ life.\r\n
-comment1.params=minX\ maxX
-comment1.target=Hazard(int,\ int)
-comment2.params=
-comment2.target=void\ act()
-numComments=3
