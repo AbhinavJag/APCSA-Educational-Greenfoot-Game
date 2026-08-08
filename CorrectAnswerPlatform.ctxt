@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=CorrectAnswerPlatform
-comment0.text=\r\n\ CorrectAnswerPlatform\ -\ landing\ on\ this\ scores\ a\ point\ and\r\n\ advances\ to\ the\ next\ question/level.\r\n
-comment1.params=answerText
-comment1.target=CorrectAnswerPlatform(java.lang.String)
-comment2.params=
-comment2.target=void\ onLanded()
-numComments=3
